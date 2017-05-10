@@ -1,5 +1,6 @@
 -Made all pearlescent guns more powerful, with additional effects for some.
 -They all tested with icreased difficulty, without it - it could be op.
+-Custom Skins included.
 :Increased difficulty:Each player in party = 4 additional players. (So if you're playing solo it's already x4 health enemy i think)
 #######################
 set GD_Balance_HealthAndDamage.HealthAndDamage.Att_UniversalAdditionalEnemyHealthPerLvl:ConstantAttributeValueResolver_0 ConstantValue 0.04 
